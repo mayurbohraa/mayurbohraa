@@ -10,7 +10,7 @@
 <p align="justify" >Frontend Software Engineer with 3 years of experience building scalable, responsive, and high-performance web applications using React.js and JavaScript. Experienced in delivering production-ready solutions across professional and freelance projects, with expertise in component-based development, REST API integration, state management, and performance optimisation. Passionate about clean code, problem-solving, and continuous skill improvement.</p>
 
 
-<img align="right" width="30%" hspace="20" src="./images/developer_typing.gif" alt="Mayur illustration" />
+<img align="right" width="25%" src="./images/developer_typing.gif" alt="Mayur illustration" />
 
 <p>💻 I’m currently working as a Frontend Software Engineer.</p>
 
@@ -20,7 +20,7 @@
 
 <p>😄 My pronouns are He/Him.</p>
 
-<p>🚀 My vision is to become a versatile Software Engineer, building innovative, scalable, and AI-powered solutions that make a meaningful impact.</p>
+<p>🚀 My vision is to become a versatile Software Engineer, building innovative, scalable, and<br>AI-powered solutions that make a meaningful impact.</p>
 
 <p>🔗 Connect with me: 👇</p>
 
